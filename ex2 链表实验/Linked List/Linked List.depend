@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1539421230 source:e:\c程序集\linked list\text.c
+	"LinkList.h"
+
+1542112382 e:\c程序集\linked list\linklist.h
+	<stdbool.h>
+
+1542112382 source:e:\c程序集\linked list\linlist.c
+	"LinkList.h"
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1540436597 source:e:\c程序集\linked list\textll.c
+	"LinkList.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1542112122 source:e:\c程序集\linked list\main.c
+	"LinkList.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

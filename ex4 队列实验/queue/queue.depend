@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1541682506 source:e:\c程序集\queue\queuearray.cpp
+	"queueArray.h"
+	<iostream>
+
+1541681156 e:\c程序集\queue\queuearray.h
+
+1541681810 source:e:\c程序集\queue\queuelink.cpp
+	"queueLink.h"
+	<iostream>
+	<cstdio>
+
+1541681765 e:\c程序集\queue\queuelink.h
+
+1541682424 source:e:\c程序集\queue\textarray.cpp
+	"queueArray.h"
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
+1543288347 source:e:\c程序集\数据结构\queue\queuearray.cpp
+	"queueArray.h"
+	<iostream>
+
+1543244489 e:\c程序集\数据结构\queue\queuearray.h
+
+1543289796 source:e:\c程序集\数据结构\queue\queuelink.cpp
+	"queueLink.h"
+	<iostream>
+	<cstdio>
+
+1543288347 e:\c程序集\数据结构\queue\queuelink.h
+
+1543289352 source:e:\c程序集\数据结构\queue\textarray.cpp
+	"queueArray.h"
+	"queueLink.h"
+	<iostream>
+	<cstdlib>
+	<cstdio>
+

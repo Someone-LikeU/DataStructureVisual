@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1545831120 source:e:\c程序集\数据结构\sort\seqbitree.cpp
+	"seqBitree.h"
+	<iostream>
+	<cstdlib>
+	<cstdbool>
+	<cstdio>
+	<cstring>
+
+1545889129 e:\c程序集\数据结构\sort\seqbitree.h
+
+1545989186 source:e:\c程序集\数据结构\sort\sort.cpp
+	"sort.h"
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<string>
+
+1545989185 e:\c程序集\数据结构\sort\sort.h
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1545484551 source:e:\c程序集\数据结构\search\avltree.cpp
+	"AVLtree.h"
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1545484556 e:\c程序集\数据结构\search\avltree.h
+
+1545484413 source:e:\c程序集\数据结构\search\search.cpp
+	"Search.h"
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1545483685 e:\c程序集\数据结构\search\search.h
+
+1545484179 source:e:\c程序集\数据结构\search\textmain.cpp
+	"AVLtree.h"
+	"Search.h"
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<iomanip>
+

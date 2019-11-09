@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1545382336 source:e:\c程序集\数据结构\treeandforst\textmain.cpp
+	"Tree.h"
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
+1545381321 e:\c程序集\数据结构\treeandforst\tree.h
+	<cstdlib>
+
+1545382091 source:e:\c程序集\数据结构\treeandforst\tree.cpp
+	"Tree.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<queue>
+	<cstring>
+	<windows.h>
+

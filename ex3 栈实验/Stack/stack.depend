@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1541422106 source:e:\c程序集\stack\stackarray.cpp
+	"StackArray.h"
+	<iostream>
+
+1541422138 e:\c程序集\stack\stackarray.h
+
+1541644292 source:e:\c程序集\stack\textarray.cpp
+	"StackArray.h"
+	<iostream>
+
+1541428508 source:e:\c程序集\stack\stacklink.cpp
+	"StackLink.h"
+	<iostream>
+
+1541424084 e:\c程序集\stack\stacklink.h
+
+1541425516 source:e:\c程序集\stack\textlink.cpp
+	"StackLink.h"
+	<iostream>
+
+1543291018 source:e:\c程序集\数据结构\stack\stacklink.cpp
+	"StackLink.h"
+	<iostream>
+	<cstdio>
+
+1543329727 e:\c程序集\数据结构\stack\stacklink.h
+
+1541644309 source:e:\c程序集\数据结构\stack\textlink.cpp
+	"StackLink.h"
+	<iostream>
+
+1543144224 source:e:\c程序集\数据结构\stack\textarray.cpp
+	"StackArray.h"
+	"StackLink.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<queue>
+	<stack>
+
+1543149822 e:\c程序集\数据结构\stack\stackarray.h
+	<queue>
+	<stack>
+
+1543322336 source:e:\c程序集\数据结构\stack\stackarray.cpp
+	"StackArray.h"
+	<iostream>
+	<cstdio>
+	<queue>
+	<stack>
+	<map>
+
+1543144224 source:e:\c程序集\数据结构\stack\stacktext.cpp
+	"StackArray.h"
+	"StackLink.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<queue>
+	<stack>
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1543390706 source:e:\c程序集\数据结构\tree\avltree.cpp
+
+1544350463 source:e:\c程序集\数据结构\tree\linkbitree.cpp
+	"LinkBiTree.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<queue>
+	<stack>
+	<cstring>
+
+1544345733 e:\c程序集\数据结构\tree\linkbitree.h
+	"AVLTree.h"
+	"seqBiTree.h"
+
+1543390685 e:\c程序集\数据结构\tree\avltree.h
+
+1544278675 e:\c程序集\数据结构\tree\seqbitree.h
+
+1544347053 source:e:\c程序集\数据结构\tree\maintext.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"LinkBiTree.h"
+	"seqBiTree.h"
+
+1544339208 source:e:\c程序集\数据结构\tree\seqbitree.cpp
+	"seqBiTree.h"
+	<iostream>
+	<cstdlib>
+	<cstdbool>
+	<cstdio>
+	<cstring>
+
